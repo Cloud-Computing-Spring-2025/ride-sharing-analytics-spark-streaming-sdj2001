@@ -1,0 +1,13 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-sdj2001/output/task1/parsed_data/part-00000-dbabc307-bdc4-42a4-a5d0-d303c7ebd99a-c000.csv","timestamp":1743551043139,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-sdj2001/output/task1/parsed_data/part-00000-a1ad88fd-b8ec-4b0f-b3ae-04b6531c4d19-c000.csv","timestamp":1743551043786,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-sdj2001/output/task1/parsed_data/part-00001-d175d793-8b7e-41a4-8dca-f382002a54fa-c000.csv","timestamp":1743551043802,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-sdj2001/output/task1/parsed_data/part-00000-b1d46882-87bb-420c-9b8d-47b48d9c693a-c000.csv","timestamp":1743551044179,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-sdj2001/output/task1/parsed_data/part-00000-69d41373-0763-41b8-877b-b8b83d3ec34f-c000.csv","timestamp":1743551044697,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-sdj2001/output/task1/parsed_data/part-00000-c8d1e651-29f9-47c8-9f66-eee521c5dae3-c000.csv","timestamp":1743551045693,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-sdj2001/output/task1/parsed_data/part-00000-20ce22ee-0365-4021-8449-3caf99f58e2e-c000.csv","timestamp":1743551046698,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-sdj2001/output/task1/parsed_data/part-00000-cda592ea-ae96-4ba3-98fa-4230d781da23-c000.csv","timestamp":1743551047722,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-sdj2001/output/task1/parsed_data/part-00000-5c38787b-3321-4042-87f2-8c016316c603-c000.csv","timestamp":1743551048692,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-sdj2001/output/task1/parsed_data/part-00000-adcbdaf1-37c4-4826-a203-c986fa26ed27-c000.csv","timestamp":1743551049666,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-sdj2001/output/task1/parsed_data/part-00000-dedb7334-eca2-4e46-aded-7d7d122d071c-c000.csv","timestamp":1743551050672,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-sdj2001/output/task1/parsed_data/part-00000-f4de6361-ddd6-415d-9a37-d1c1cdf46a45-c000.csv","timestamp":1743551051706,"batchId":0}
